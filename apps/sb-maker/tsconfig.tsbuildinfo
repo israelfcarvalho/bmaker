@@ -1,0 +1,1 @@
+{"root":["./src/main.ts","./src/bet/bet.ts","./src/bet/index.ts","./src/game/game.ts","./src/game/index.ts","./src/game/provider.ts","./src/generator/generator.ts"],"version":"5.8.2"}
